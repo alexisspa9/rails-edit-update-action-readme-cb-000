@@ -19,8 +19,8 @@ class PostsController < ApplicationController
 	  redirect_to post_path(@post)
 	end
 	def edit
-end
- 
-def update
-end
+	end
+
+	def update
+	end
 end
